@@ -1,0 +1,13 @@
+analysis_domain,system,measure,value,unit,notes
+Behavior,Moderate-noise GRU,Hit rate,0.798442,proportion,Original RNN threshold
+Behavior,Mouse session 1119946360,Hit rate,0.61086,proportion,135 hits / 221 go trials
+Behavior,Moderate-noise GRU,False-alarm rate,0.048744,proportion,Original RNN threshold
+Behavior,Mouse session 1119946360,False-alarm rate,0.066667,proportion,2 false alarms / 30 catch trials
+Behavior,Moderate-noise GRU,d_prime,2.491848,SDT units,Log-linear corrected rates
+Behavior,Mouse session 1119946360,d_prime,1.681003,SDT units,Log-linear corrected rates
+Behavior,Moderate-noise GRU,criterion,0.410122,SDT units,Positive means conservative
+Behavior,Mouse session 1119946360,criterion,0.560243,SDT units,More conservative than RNN
+Threshold matched,Moderate-noise GRU,Hit rate at mouse FA rate,0.818,proportion,Threshold = 0.428; false-alarm rate = 0.067
+Neural response,Mouse VISp,Hit minus miss evoked firing,1.599574,Hz,106 good QC-passing VISp units; 0-500 ms
+Neural decoding,Mouse VISp,Hit-miss balanced accuracy,0.743856,proportion,Repeated 5-fold CV; 106 units
+Neural decoding,Mouse VISp,Hit-miss ROC-AUC,0.809742,proportion,Repeated 5-fold CV

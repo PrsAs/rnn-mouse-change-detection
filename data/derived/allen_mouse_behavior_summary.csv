@@ -1,0 +1,2 @@
+session_id,n_valid_trials,n_go_trials,n_catch_trials,hit_rate_raw,false_alarm_rate_raw,hit_rate_corrected,false_alarm_rate_corrected,d_prime,criterion,median_reaction_time_s
+1119946360,251,221,30,0.6108597285067874,0.06666666666666667,0.6103603603603603,0.08064516129032258,1.6810034416445856,0.5602433403082839,0.4004099999997379
