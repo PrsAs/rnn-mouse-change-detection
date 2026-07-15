@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "RNN-Mouse Change Detection"
+abstract: >
+  A computational neuroscience project comparing recurrent neural-network
+  change detection with mouse visual behavior and VISp population activity.
+authors:
+  - family-names: "Asadi"
+    given-names: "Parsa"
+repository-code: "https://github.com/PrsAs/rnn-mouse-change-detection"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-15
